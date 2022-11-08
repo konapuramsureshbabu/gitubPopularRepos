@@ -1,0 +1,14 @@
+.active-btn {
+  border: 1px solid #0284c7;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #0284c7;
+}
+.btn {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #ffffff;
+  margin: 20px;
+}

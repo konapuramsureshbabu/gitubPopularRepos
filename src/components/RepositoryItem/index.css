@@ -1,0 +1,37 @@
+.repository-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f8ff;
+  border-radius: 25px;
+  height: 300px;
+  margin-bottom: 24px;
+  padding: 20px;
+  margin-left: 20px;
+}
+.rep-img {
+  width: 100px;
+  height: 100px;
+}
+.rep-heading {
+  color: #e73959;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.container {
+  display: flex;
+  align-items: center;
+  width: 85%;
+  margin-bottom: 20px;
+}
+.img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.text {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
